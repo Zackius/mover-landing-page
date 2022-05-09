@@ -1,26 +1,82 @@
 body {
     margin:0;
     padding: 0;
+    font-family:'poppin' 'actor' 'adamina';
 
+}
+button{
+    background-color: black;
+    color: #FFAC12;
+    border-radius: 0 20px 0 0;
+    padding: 20px;
+    font-size: 20px;
 }
 header{ 
     display: flex;
     flex-direction: column;
-    background-image: url('../photos/moving\ 1\ \(2\).png');
+    background-image: url('../photos/moving\ 1.png');
     background-size: cover;
 }
 header .nav{
-    padding: 300px;
+    padding: 280px 100px 100px 20px;
 }
 header .nav h1{
    color: yellow;
-
+   font-size: 80px;
 }
+
+header .nav p {
+    color: white;
+    font-size: 50px;
+}
+
 ul{
     list-style-type: none;
 }
 ul li {
     float: right;
     padding:  30px;
-    color: white;
+    color: rgb(204, 204, 204);
+}
+#hustle{
+    display:  flex;
+    padding: 30px;
+}
+#hustle div{
+    flex-direction: column;
+   
+}
+.message{
+    align-content: center;
+    text-align: center;
+    padding: 100px 0 0 50px;
+}
+.message h1{
+    font-size: 40px
+}
+.message p {
+    color: rgb(201, 201, 201);
+    font-size: 30px;
+
+}
+#movers{
+    background-color: rgb(216, 213, 213);
+}
+#movers div h1{
+    padding: 100px;
+    font-size: 50px;
+
+}
+.imgs{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+
+}
+.imgs div{
+   padding:40px;
+}
+.imgs div div h1{
+    background-color: white;
+    border-radius: 0 5px 5px 0;
 }
