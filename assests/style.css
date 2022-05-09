@@ -91,4 +91,22 @@ ul li {
     border-style: single;
     padding: 40px;
 }
+#footer{
+    background-color: black;
+    height: 400px;
+    padding-top: 5%;
+    padding-left: 20%;
+
+}
+#footer h1{
+    color: white;
+   
+}
+#footer span {
+    color: #FFAC12;
+
+}
+.foot{
+    border-bottom: rgb(243, 238, 238);
+}
 
