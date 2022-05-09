@@ -1,0 +1,26 @@
+body {
+    margin:0;
+    padding: 0;
+
+}
+header{ 
+    display: flex;
+    flex-direction: column;
+    background-image: url('../photos/moving\ 1\ \(2\).png');
+    background-size: cover;
+}
+header .nav{
+    padding: 300px;
+}
+header .nav h1{
+   color: yellow;
+
+}
+ul{
+    list-style-type: none;
+}
+ul li {
+    float: right;
+    padding:  30px;
+    color: white;
+}
