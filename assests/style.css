@@ -93,7 +93,6 @@ ul li {
 }
 #footer{
     background-color: black;
-    height: 400px;
     padding-top: 5%;
     padding-left: 20%;
 
@@ -108,5 +107,16 @@ ul li {
 }
 .foot{
     border-bottom: rgb(243, 238, 238);
+}
+.content-footer{
+    display: flex;
+   justify-content: right;
+}
+.content-footer div{
+    flex-direction: row;
+    padding:90px;
+}
+.content-footer div h4{
+    color: white;
 }
 
