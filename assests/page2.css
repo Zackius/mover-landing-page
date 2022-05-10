@@ -1,0 +1,21 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color: rgb(221, 221, 221);
+}
+button{
+    color: #FFAC12;
+}
+#main{
+    display: flex;
+    padding:40px;
+}
+#main div{
+    flex-direction: row;
+}
+.rect{
+    display: flex;
+}
+.rect img{
+    padding: 12px;
+}
