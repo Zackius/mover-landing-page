@@ -12,11 +12,26 @@ button{
 }
 header{
     background-color: black;
+    height: 120px;
+    border-bottom: rgb(235, 230, 230);
 }
 header ul{
     float: right;
     margin: 20px;
 }
+.nav-link{
+    display: flex;
+
+
+}
+.nav-link div{
+    flex-direction: column;
+    padding: 40px;
+}
+.pesa{
+ clear: right;
+}
+ 
 ul li{
     color:white;
     display: inline-block;
