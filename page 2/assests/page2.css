@@ -1,0 +1,26 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+header{
+    background-color: lack;
+}
+header .nav{
+    display: block;
+    height: 120px;
+}
+header ul {
+    float: right;
+    margin: 40px;
+}
+header ul li{
+    display: inline;
+    padding: 40px;
+    color: whit;
+}
+nav-2{
+    display:flex;
+}
+nav-2 div{
+    padding: 15%;
+}
