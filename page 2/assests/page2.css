@@ -3,11 +3,11 @@ body{
     padding: 0;
 }
 header{
-    background-color: lack;
+    background-color:black;
 }
 header .nav{
     display: block;
-    height: 120px;
+    height: 80px;
 }
 header ul {
     float: right;
@@ -16,11 +16,19 @@ header ul {
 header ul li{
     display: inline;
     padding: 40px;
-    color: whit;
+    color: white;
 }
-nav-2{
-    display:flex;
-}
-nav-2 div{
-    padding: 15%;
-}
+.nav-2{
+    display:block;
+    margin:10px;
+    color: white;
+   }
+   .nav-2 div{
+       display: inline-block;
+   }
+   .nav-2 .rigt{
+       float:right;
+   }
+   .rigt{
+       padding-left: 900px;
+   }
