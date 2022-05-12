@@ -9,7 +9,7 @@
  - [Behaviour Driven Development](#Behaviour-Driven-Development)
  - [Requirements](#requirements)
  - [Installation Process](#installation-Process)
- - [Live Link]
+ - [Live Link] (https://zackius.github.io/mover-landing-page/)
  - [Technology  Used](#technology-Used)
  - [Licence](#licence)
  - [Authors Info](#Authors-Info)
