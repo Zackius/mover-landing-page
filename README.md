@@ -9,9 +9,13 @@
  - [Behaviour Driven Development](#Behaviour-Driven-Development)
  - [Requirements](#requirements)
  - [Installation Process](#installation-Process)
- - [Live Link] (https://zackius.github.io/mover-landing-page/)
+ - [Live Link](#Live Link)
  - [Technology  Used](#technology-Used)
  - [Licence](#licence)
  - [Authors Info](#Authors-Info)
  ## Description
  <p>This project is a web application of a mover-company, the web page compiles of two pages, the landing page and modern house. The pages shows my progress on lesrning Html and Css. </p>
+## Live Link
+https://zackius.github.io/mover-landing-page/
+## Technology Used
+Html5 Css3
