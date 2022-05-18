@@ -38,6 +38,9 @@ ul li {
     padding:  30px;
     color: rgb(204, 204, 204);
 }
+ul li a{
+    color: rgb(204, 204, 204);
+}
 #hustle{
     display:  flex;
     padding: 30px;
@@ -89,7 +92,7 @@ ul li {
 }
 .wording span{
     border-style: single;
-    padding: 40px;
+    padding: 30px;
 }
 #footer{
     background-color: black;
@@ -110,13 +113,19 @@ ul li {
 }
 .content-footer{
     display: flex;
-   justify-content: right;
+
 }
 .content-footer div{
     flex-direction: row;
-    padding:90px;
+    padding:60px;
 }
 .content-footer div h4{
     color: white;
 }
+.content-footer div i{
+    font-size: 30px;
+    color:white;
+    padding:10px;
+}
+
 

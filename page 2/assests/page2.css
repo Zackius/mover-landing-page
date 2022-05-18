@@ -1,6 +1,7 @@
 body{
     margin: 0;
     padding: 0;
+    background-color:rgb(228, 226, 226);
 }
 header{
     background-color:black;
@@ -32,3 +33,183 @@ header ul li{
    .rigt{
        padding-left: 900px;
    }
+   .line{
+      width:100%;
+
+   }
+   .marg{
+       margin: 30px;
+   }
+   #main{
+       display: flex;
+       flex-direction: row;
+       height: 500px;
+   }
+   .list{
+  width: 300px;
+  height: 500px;
+  display: flex;
+  flex-direction: column;
+  margin:20px;
+  background-color: white;
+
+   }
+   .list input{
+       border-radius: 16px;
+     margin: 20px;
+     padding: 10px;
+   }
+   .prof{
+       display: flex;
+       width: 280px;
+       border: 1px solid black;
+       background-color:rgb(212, 212, 212);
+       border-radius: 20px;
+       margin: 10px;
+
+   }
+   .btn{
+       width: 200px;
+       padding: 15px;
+       background-color: black;
+       color: #FFAC12;
+       margin: 30px;
+   
+   }
+   .prof img{
+       border-radius: 20px;
+   }
+   .inpt{
+       padding:20px;
+   }
+   .image{
+       padding: 10px;
+   }
+   .image img{
+       padding: 10px;
+   }
+   textarea{
+       border-radius: 20px;
+       width: 250px;
+       margin: 0px;
+       padding: 10px;
+   }
+   .det {
+       padding: 20px;
+       background-color: white;
+       border-radius: 10px;
+       width: 700px;
+       height:80px;      
+   }
+   .det p{
+    border-bottom:1px solid rgb(172, 172, 172 );
+   }
+.cons span{
+    padding:40px;
+    height: 5px
+    
+}
+.des{
+    background-color: white;
+    width: 700px;
+    height: 350px; 
+    border-radius: 15px;
+    color: rgb(141, 141, 141);
+}
+.airc{
+    background-color: white;
+    width: 700px;
+    border-radius: 16px;
+}
+.aircond{
+    display: flex;
+    height: 400px;
+    width: 700px;
+    background-color: white;
+    border-radius: 17px;
+
+}
+.aircond div{
+    flex-direction: row;
+    padding:45px;
+}
+.aircond div p{
+    font-size: px;
+    flex-direction: column;
+    color: rgb(126, 125, 125);
+    padding: 10px;
+}
+.aircond  p i{
+ color: #FFAC12;
+}
+.pict{
+    display: flex;
+    flex-direction: row;
+
+}
+.pict div{
+    padding: 30px;
+    
+}
+.malto{
+    background-color:white;
+    border-radius: 0 0  20px 20px  ;
+    height: 60px;
+    width: 300px;
+}
+.malto span{
+    padding:30px;
+}
+#footer{
+    background-color: black;
+    padding-top: 5%;
+    padding-left: 0%;
+
+}
+.straight{
+    width: 100%;
+}
+.foot{
+    display: flex;
+    justify-content: space-between;
+    margin: 20px;
+    
+}
+#footer h1{
+    color: white;
+    padding-left: 150px;
+   
+}
+button{
+    padding: 20px;
+    background-color: #FFAC12;
+    border-radius: 0 20px 0 0 ;
+    color: white;
+    float: right;
+
+}
+#footer span {
+    color: #FFAC12;
+
+}
+
+.content-footer{
+    display: flex;
+  padding-left: 300px;
+
+}
+.content-footer div{
+    flex-direction: row;
+    padding:60px;
+}
+.content-footer div h4{
+    color: white;
+}
+.content-footer div p{
+    color: white;
+}
+.content-footer div i{
+    font-size: 30px;
+    color:white;
+    padding:10px;
+}
